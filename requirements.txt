@@ -1,0 +1,14 @@
+fastapi
+uvicorn
+pydantic
+httpx
+google-api-python-client
+langchain
+openai
+chromadb
+python-dotenv
+requests
+tenacity
+google-auth
+tqdm
+beautifulsoup4  
